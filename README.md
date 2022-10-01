@@ -5,6 +5,7 @@
 
 * Challenge Link -> https://codebasics.io/event/codebasics-resume-project-challenge
 * Codebasics -> https://www.youtube.com/c/codebasics
+* YouTube Video Link -> https://youtu.be/VCWZL721xdw
 
 ## Mock-up Dashboard
 
