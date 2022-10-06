@@ -6,6 +6,8 @@
 * Challenge Link -> https://codebasics.io/event/codebasics-resume-project-challenge
 * Codebasics -> https://www.youtube.com/c/codebasics
 * YouTube Video Link -> https://youtu.be/VCWZL721xdw
+* Linkedin post -> https://www.linkedin.com/feed/update/urn:li:activity:6982021070824386560/
+* My Linkedin profile -> https://www.linkedin.com/in/argha-nath-1a1b29192/
 
 ## Mock-up Dashboard
 
