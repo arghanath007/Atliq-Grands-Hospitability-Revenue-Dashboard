@@ -19,3 +19,12 @@
 ![image](https://user-images.githubusercontent.com/54589605/193418224-366cfd0d-a711-4fc4-9d4e-0e3c5228e4d7.png)
 
 
+## Submission Certificate
+
+* Download Link -> [CH-1-4-22515_Data_Analyst_challenge_1.pdf](https://github.com/arghanath007/Atliq-Grands-Hospitability-Revenue-Dashboard/files/9746093/CH-1-4-22515_Data_Analyst_challenge_1.pdf)
+
+![CH-1-4-22515_Data_Analyst_challenge_1](https://user-images.githubusercontent.com/54589605/194872299-7c2e4aa4-3d21-4a63-aeaf-9328905905d7.jpg)
+
+
+
+
