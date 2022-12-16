@@ -8,6 +8,7 @@
 * YouTube Video Link -> https://youtu.be/VCWZL721xdw
 * Linkedin post -> https://www.linkedin.com/feed/update/urn:li:activity:6982021070824386560/
 * My Linkedin profile -> https://www.linkedin.com/in/argha-nath-1a1b29192/
+* Interactive Dashboard Link -> https://www.novypro.com/project/atliq-grands-hospitability-revenue
 
 ## Mock-up Dashboard
 
